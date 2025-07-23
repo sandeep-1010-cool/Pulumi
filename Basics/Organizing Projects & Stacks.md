@@ -1,5 +1,3 @@
-Sure! Here's a simple and well-structured summary of the key points about Pulumi projects from the page:
-
 1. What is a Pulumi Project?  
 - A Pulumi project is a folder with a Pulumi.yaml file.  
 - The Pulumi.yaml file defines important info about the project, like the programming runtime and metadata.
