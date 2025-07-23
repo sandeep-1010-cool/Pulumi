@@ -28,8 +28,6 @@ Sure! Here's a simple and well-structured summary of the key points about Pulumi
 - These files store stack-specific configs and can be safely checked into version control since secrets are encrypted.  
 - You can change where these files are stored by setting `stackConfigDir` in the project metadata.
 
-Certainly! Here's a comprehensive Q&A covering all the Pulumi project concepts from the page, including code examples where applicable:
-
 ---
 
 ### Q1: What is a Pulumi project?  
